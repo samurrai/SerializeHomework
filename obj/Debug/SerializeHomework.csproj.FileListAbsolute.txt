@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\SerializeHomework\SerializeHomework\bin\Debug\SerializeHomework.exe.config
+C:\Users\User\source\repos\SerializeHomework\SerializeHomework\bin\Debug\SerializeHomework.exe
+C:\Users\User\source\repos\SerializeHomework\SerializeHomework\bin\Debug\SerializeHomework.pdb
+C:\Users\User\source\repos\SerializeHomework\SerializeHomework\obj\Debug\SerializeHomework.csprojAssemblyReference.cache
+C:\Users\User\source\repos\SerializeHomework\SerializeHomework\obj\Debug\SerializeHomework.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\SerializeHomework\SerializeHomework\obj\Debug\SerializeHomework.exe
+C:\Users\User\source\repos\SerializeHomework\SerializeHomework\obj\Debug\SerializeHomework.pdb
